@@ -19,6 +19,7 @@ setup(
         "pandas",
         "numpy",
         "matplotlib",
-        "seaborn"
+        "seaborn",
+        "PyYAML"
     ]
 )

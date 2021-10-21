@@ -1,5 +1,5 @@
-from src.utils.common import read_config
-from src.utils.data_mgmt import getData
+from utils.common import read_config
+from utils.data_mgmt import getData
 import argparse
 
 def training(config_path):

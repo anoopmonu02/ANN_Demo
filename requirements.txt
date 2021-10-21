@@ -6,4 +6,4 @@ seaborn
 PyYAML
 
 ## Local Package Instalation 
-##-e . ### <<< To install local packages defined in setup.py
+-e . ### <<< To install local packages defined in setup.py
